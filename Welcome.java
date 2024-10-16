@@ -3,5 +3,7 @@ public class Welcome{
         System.err.println("Welcome to JAVA App !!JENKINS");
 
         System.err.println("java-jenkins-git-demo");
+
+        System.err.println("java-jenkins-git-demo-pollSCM");
     }
 }
